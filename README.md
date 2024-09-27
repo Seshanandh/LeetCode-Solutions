@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+## String
+|  |
+| ------- |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 <!---LeetCode Topics End-->
