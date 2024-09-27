@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 ## Linked List
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 ## String
 |  |
 | ------- |
