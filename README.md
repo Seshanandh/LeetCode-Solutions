@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0010-regular-expression-matching](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Dynamic Programming
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
