@@ -33,5 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
