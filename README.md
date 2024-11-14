@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0088-merge-sorted-array](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -39,11 +40,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 ## Recursion
 |  |
