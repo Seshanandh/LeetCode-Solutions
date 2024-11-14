@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0088-merge-sorted-array](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [1039-find-the-town-judge](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 ## Sliding Window
 |  |
@@ -113,8 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
