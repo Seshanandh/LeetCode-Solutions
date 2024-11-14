@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
