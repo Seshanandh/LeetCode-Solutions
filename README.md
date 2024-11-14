@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Array
 |  |
@@ -65,8 +66,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 ## Graph
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
