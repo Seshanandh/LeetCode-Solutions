@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0068-text-justification](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1039-find-the-town-judge](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0087-scramble-string](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0087-scramble-string) |
 ## Recursion
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 ## Matrix
 |  |
 | ------- |
@@ -132,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0068-text-justification) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
