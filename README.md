@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0060-permutation-sequence](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 ## Binary Search
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0060-permutation-sequence) |
 ## Hash Table
 |  |
 | ------- |
