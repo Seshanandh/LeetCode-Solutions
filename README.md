@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0087-scramble-string](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0212-word-search-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0149-max-points-on-a-line](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [1039-find-the-town-judge](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 ## Sliding Window
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0126-word-ladder-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0127-word-ladder](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0127-word-ladder) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
 |  |
