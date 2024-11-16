@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
+| [0065-valid-number](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0126-word-ladder-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
