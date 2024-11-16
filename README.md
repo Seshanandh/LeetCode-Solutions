@@ -210,11 +210,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0126-word-ladder-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Topological Sort
 |  |
@@ -224,4 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
