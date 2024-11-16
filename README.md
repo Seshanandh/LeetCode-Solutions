@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0044-wildcard-matching) |
 | [0068-text-justification](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0087-scramble-string) |
+| [0126-word-ladder-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/2819-remove-trailing-zeros-from-a-string) |
 ## Dynamic Programming
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0149-max-points-on-a-line](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [1039-find-the-town-judge](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 ## Sliding Window
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0126-word-ladder-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 | [0212-word-search-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 ## Stack
 |  |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0126-word-ladder-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
 <!---LeetCode Topics End-->
