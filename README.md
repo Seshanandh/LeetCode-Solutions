@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0149-max-points-on-a-line](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0149-max-points-on-a-line](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0212-word-search-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
 | [1039-find-the-town-judge](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+| [0149-max-points-on-a-line](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [1039-find-the-town-judge](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 ## Sliding Window
 |  |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
