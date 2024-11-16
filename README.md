@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0149-max-points-on-a-line) |
 | [0212-word-search-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0218-the-skyline-problem) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1039-find-the-town-judge](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1675-magnetic-force-between-two-balls) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0087-scramble-string) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1039-find-the-town-judge](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/1039-find-the-town-judge) |
 ## Heap (Priority Queue)
 |  |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0212-word-search-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -205,4 +209,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0126-word-ladder-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Depth-First Search
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Seshanandh/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
